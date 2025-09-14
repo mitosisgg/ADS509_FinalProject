@@ -147,6 +147,9 @@ venv.bak/
 # Folders
 logs/
 
+# .DS_Store
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 .spyproject
